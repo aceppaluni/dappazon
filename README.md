@@ -29,3 +29,10 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`
+
+##Demo
+
+<img width="950" height="479" alt="dappazon" src="https://github.com/user-attachments/assets/10536d5b-1906-4935-97ad-60bccd57fc71" />
+
+https://github.com/user-attachments/assets/96bba491-94da-45f8-b590-cbdae2732573
+
